@@ -6,12 +6,11 @@
 
 <hr>
 
-### Oie! :sparkles:
 
 
 <div align="center">
 
-My name is Gabriel, Im architect of building and studying code now.
+:sparkles: My name is Gabriel, Im architect of building and studying code now. :sparkles:
  
 </div>
 
