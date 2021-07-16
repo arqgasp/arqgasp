@@ -26,8 +26,8 @@ My name is Gabriel, Im architect of building and studying code now.
 
 <div align="center">
   <a href="https://github.com/arqgasp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Archianne&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archianne&layout=compact&langs_count=16&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arqgasp&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqgasp&layout=compact&langs_count=16&theme=light"/>
 </div>
   
 <hr>
