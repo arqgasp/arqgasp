@@ -8,7 +8,7 @@
 
 ### Hi there :sparkles:
 
-<img align="left" src="https://github.com/arqgasp.png?raw=true" width="100">
+<img align="left" src="https://github.com/Archianne/Archianne/blob/main/transparent.png?raw=true" width="100">
 
 <div>
 
