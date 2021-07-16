@@ -8,7 +8,7 @@
 
 
 
-<div>
+<div align="center">
 
 :sparkles: My name is Gabriel, Im architect of building and studying code now :sparkles:
  
@@ -17,7 +17,7 @@
 ##
   
 <h3>Languages and Tools:</h3>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="arqgasp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="arqgasp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="arqgasp-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
