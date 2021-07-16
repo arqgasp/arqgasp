@@ -10,7 +10,7 @@
 
 <div align="center">
 
-:sparkles: My name is Gabriel, Im architect of building and studying code now. :sparkles:
+:sparkles: My name is Gabriel, Im architect of building and studying code now :sparkles:
  
 </div>
 
