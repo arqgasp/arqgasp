@@ -17,12 +17,10 @@ My name is Gabriel, Im architect of building and studying code now.
 
 ##
   
-<h3>Languages and Tools:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="arqgasp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="arqgasp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="arqgasp-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div><br>
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqgasp&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 <hr>
 
