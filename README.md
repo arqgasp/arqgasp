@@ -6,7 +6,7 @@
 
 <hr>
 
-### Hi there
+### Hi there :sparkles:
 
 <img align="left" src="https://github.com/arqgasp.png?raw=true" width="100">
 
