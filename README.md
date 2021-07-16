@@ -8,7 +8,7 @@
 
 
 
-<div align="center">
+<div>
 
 :sparkles: My name is Gabriel, Im architect of building and studying code now :sparkles:
  
@@ -25,7 +25,7 @@
 
 <hr>
 
-<div align="center">
+<div>
   <a href="https://github.com/arqgasp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arqgasp&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arqgasp&layout=compact&langs_count=16&theme=light"/>
