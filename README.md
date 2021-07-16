@@ -6,9 +6,8 @@
 
 <hr>
 
-### Hi there :sparkles:
+### Oie! :sparkles:
 
-<img align="left" src="https://github.com/arqgasp/arqgasp/blob/main/transparent.png?raw=true" width="100">
 
 <div>
 
