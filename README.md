@@ -10,7 +10,7 @@
 
 <div>
 
-:sparkles: My name is Gabriel, Im architect of building and studying code now :sparkles:
+:sparkles: My name is Gabriel, Im architect of building at Osasco City Hall and studying code now :sparkles:
  
 </div>
 
