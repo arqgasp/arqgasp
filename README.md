@@ -6,7 +6,7 @@
 
 <hr>
 
-### Hi there https://gist.github.com/davidBentoPereira/%22#%22
+### Hi there
 
 <img align="left" src="https://github.com/arqgasp.png?raw=true" width="100">
 
