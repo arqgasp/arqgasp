@@ -8,7 +8,7 @@
 
 
 
-<div align="center">
+<div>
 
 :sparkles: My name is Gabriel, Im architect of building and studying code now :sparkles:
  
