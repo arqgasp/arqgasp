@@ -10,7 +10,9 @@
 
 <div>
 
-:sparkles: My name is Gabriel, Im architect of building at Osasco City Hall and studying code now :sparkles:
+ ### About me
+  
+:sparkles: My name is Gabriel, i have a degree in Architecture and Urbanism and a civil servant as a part-time architect in the city of Osasco since 2018. After taking the CS50 course at Harvard, I fell in love with the area and today I seek to position myself as a Frontend in the technology area. :sparkles:
  
 </div>
 
