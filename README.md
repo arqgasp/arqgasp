@@ -29,8 +29,8 @@ My name is Gabriel, i have a degree in Architecture and Urbanism and a civil ser
 
 <div>
   <a href="https://github.com/arqgasp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arqgasp&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arqgasp&layout=compact&langs_count=16&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=piferia&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piferia&layout=compact&langs_count=16&theme=light"/>
 </div>
   
 <hr>
